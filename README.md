@@ -29,6 +29,11 @@ Rank: 2
 
 Score: 0.99163027660
 
-# Approach
+# Notes
 
-
+| File                                    | Score         |
+| ----------------------------------------| ------------- |
+| predict-the-news-category_v5.ipynb      | 0.99053857    |
+| predict-the-news-category_v9.ipynb      | 0.99017467    |
+| predict-the-news-category_v8.ipynb      | 0.98944687    |
+| final-ensemble.ipynb                    | 0.99163028    |
