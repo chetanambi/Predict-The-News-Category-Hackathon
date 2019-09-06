@@ -22,3 +22,12 @@ There are four distinct sections where each story may fall in to. The Sections a
 # Metric
 
 The final score will be calculated based on the number of true predictions using the confusion matrix.
+
+# Leaderboard
+
+Rank: 2
+Score: 0.99163027660
+
+# Approach
+
+
