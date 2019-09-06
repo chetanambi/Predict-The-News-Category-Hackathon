@@ -26,6 +26,7 @@ The final score will be calculated based on the number of true predictions using
 # Leaderboard
 
 Rank: 2
+
 Score: 0.99163027660
 
 # Approach
